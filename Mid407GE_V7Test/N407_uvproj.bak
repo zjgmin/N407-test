@@ -506,11 +506,6 @@
               <FilePath>.\SRC\system_stm32f4xx.c</FilePath>
             </File>
             <File>
-              <FileName>stm32f4xx_rtc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\SRC\stm32f4xx_rtc.c</FilePath>
-            </File>
-            <File>
               <FileName>ETH_STM32F4xx.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\SRC\ETH_STM32F4xx.c</FilePath>
