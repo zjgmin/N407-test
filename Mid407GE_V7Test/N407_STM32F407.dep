@@ -45,7 +45,7 @@ I (.\INC\app_config.h)(0x579F0F7E)
 I (.\INC\Led.h)(0x56B3F221)
 I (.\INC\applayer.h)(0x552715D8)
 I (.\INC\EtherCmd.hpp)(0x579FF123)
-F (.\SRC\EtherCmd.cpp)(0x57F862D9)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I.\LIB -I.\INC-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-o .\obj\ethercmd.o --omf_browse .\obj\ethercmd.crf --depend .\obj\ethercmd.d)
+F (.\SRC\EtherCmd.cpp)(0x57F874E3)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I.\LIB -I.\INC-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-o .\obj\ethercmd.o --omf_browse .\obj\ethercmd.crf --depend .\obj\ethercmd.d)
 I (.\INC\rtl.h)(0x5651225E)
 I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
 I (.\INC\main.h)(0x57F85C0E)
@@ -136,7 +136,7 @@ I (.\INC\chanether.hpp)(0x564ED3FC)
 I (.\INC\Subchan.hpp)(0x56E8A73D)
 I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
 I (.\INC\app_can.hpp)(0x57F8679A)
-F (.\SRC\ParallelChan.Cpp)(0x57F859BF)(--cpp -c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I.\LIB -I.\INC-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-o .\obj\parallelchan.o --omf_browse .\obj\parallelchan.crf --depend .\obj\parallelchan.d)
+F (.\SRC\ParallelChan.Cpp)(0x57F8B165)(--cpp -c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I.\LIB -I.\INC-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-o .\obj\parallelchan.o --omf_browse .\obj\parallelchan.crf --depend .\obj\parallelchan.d)
 I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7C554)
 I (.\INC\RTL.h)(0x5651225E)
 I (.\INC\main.h)(0x57F85C0E)
@@ -294,4 +294,4 @@ I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532BF7C2)
 I (.\INC\system_stm32f4xx.h)(0x4F84FB04)
 I (.\INC\UartSimCan.h)(0x568F0635)
 I (.\INC\main.h)(0x57F85C0E)
-F (.\READ ME.TXT)(0x57F764F4)()
+F (.\READ ME.TXT)(0x583FBDCF)()
