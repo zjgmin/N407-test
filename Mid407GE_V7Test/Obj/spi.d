@@ -1,0 +1,13 @@
+.\obj\spi.o: SRC\SPI.c
+.\obj\spi.o: .\INC\stm32f4xx.h
+.\obj\spi.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\spi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\spi.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\spi.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\spi.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\spi.o: .\INC\system_stm32f4xx.h
+.\obj\spi.o: .\INC\RTL.h
+.\obj\spi.o: .\INC\main.h
+.\obj\spi.o: .\INC\gpio.h
+.\obj\spi.o: .\INC\spi.h
+.\obj\spi.o: .\INC\led.h

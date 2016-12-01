@@ -1,0 +1,15 @@
+.\obj\watchdog.o: SRC\WatchDog.c
+.\obj\watchdog.o: .\INC\stm32f4xx.h
+.\obj\watchdog.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\watchdog.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\watchdog.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\watchdog.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\watchdog.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\watchdog.o: .\INC\system_stm32f4xx.h
+.\obj\watchdog.o: .\INC\RTL.h
+.\obj\watchdog.o: .\INC\sys_config.h
+.\obj\watchdog.o: .\INC\RTX_CAN.h
+.\obj\watchdog.o: .\INC\CAN_Cfg.h
+.\obj\watchdog.o: .\INC\main.h
+.\obj\watchdog.o: .\INC\led.h
+.\obj\watchdog.o: .\INC\watchdog.h

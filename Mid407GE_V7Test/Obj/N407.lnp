@@ -1,0 +1,31 @@
+--cpu Cortex-M4.fp
+".\obj\main.o"
+".\obj\tcpudp.o"
+".\obj\applayer.o"
+".\obj\ethercmd.o"
+".\obj\app_can.o"
+".\obj\dev.o"
+".\obj\chan.o"
+".\obj\chanether.o"
+".\obj\parallelchan.o"
+".\obj\subchan.o"
+".\obj\rtx_can.o"
+".\obj\net_config.o"
+".\obj\rtx_config.o"
+".\obj\sys_config.o"
+".\LIB\TCP_CM3.lib"
+".\obj\startup_stm32f4xx.o"
+".\obj\system_stm32f4xx.o"
+".\obj\eth_stm32f4xx.o"
+".\obj\can_stm32f40x.o"
+".\obj\led.o"
+".\obj\spi.o"
+".\obj\gpio.o"
+".\obj\timer.o"
+".\obj\watchdog.o"
+".\obj\uartsimcan.o"
+C:\Keil\ARM\RV31\LIB\RTX_CM4.LIB
+--strict --scatter ".\Obj\N407.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\N407.map" -o .\Obj\N407.axf

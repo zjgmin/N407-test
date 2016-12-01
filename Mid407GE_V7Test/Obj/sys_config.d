@@ -1,0 +1,9 @@
+.\obj\sys_config.o: SRC\Sys_Config.cpp
+.\obj\sys_config.o: .\INC\RTL.h
+.\obj\sys_config.o: C:\Keil\ARM\ARMCC\bin\..\include\wchar.h
+.\obj\sys_config.o: C:\Keil\ARM\ARMCC\bin\..\include\wctype.h
+.\obj\sys_config.o: .\INC\main.h
+.\obj\sys_config.o: .\INC\Sys_config.h
+.\obj\sys_config.o: .\INC\RTX_CAN.h
+.\obj\sys_config.o: .\INC\CAN_Cfg.h
+.\obj\sys_config.o: .\INC\RTX_CAN.h

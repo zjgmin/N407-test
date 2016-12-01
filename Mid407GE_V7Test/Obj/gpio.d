@@ -1,0 +1,11 @@
+.\obj\gpio.o: SRC\GPIO.c
+.\obj\gpio.o: .\INC\stm32f4xx.h
+.\obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\gpio.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\gpio.o: .\INC\system_stm32f4xx.h
+.\obj\gpio.o: .\INC\RTL.h
+.\obj\gpio.o: .\INC\main.h
+.\obj\gpio.o: .\INC\gpio.h

@@ -1,0 +1,11 @@
+.\obj\eth_stm32f4xx.o: SRC\ETH_STM32F4xx.c
+.\obj\eth_stm32f4xx.o: .\INC\Net_Config.h
+.\obj\eth_stm32f4xx.o: .\INC\RTL.h
+.\obj\eth_stm32f4xx.o: .\INC\stm32f4xx.h
+.\obj\eth_stm32f4xx.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\eth_stm32f4xx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\eth_stm32f4xx.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\eth_stm32f4xx.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\eth_stm32f4xx.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\eth_stm32f4xx.o: .\INC\system_stm32f4xx.h
+.\obj\eth_stm32f4xx.o: .\INC\ETH_STM32F4xx.h

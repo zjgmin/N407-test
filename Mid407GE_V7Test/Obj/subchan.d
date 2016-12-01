@@ -1,0 +1,14 @@
+.\obj\subchan.o: SRC\SubChan.Cpp
+.\obj\subchan.o: .\INC\RTL.h
+.\obj\subchan.o: .\INC\main.h
+.\obj\subchan.o: .\INC\spi.h
+.\obj\subchan.o: .\INC\app_config.h
+.\obj\subchan.o: .\INC\Dev.hpp
+.\obj\subchan.o: .\INC\RTX_CAN.h
+.\obj\subchan.o: .\INC\CAN_Cfg.h
+.\obj\subchan.o: .\INC\app_can.hpp
+.\obj\subchan.o: .\INC\rtx_can.h
+.\obj\subchan.o: .\INC\SubChan.hpp
+.\obj\subchan.o: .\INC\rtx_can.h
+.\obj\subchan.o: .\INC\chan.hpp
+.\obj\subchan.o: .\INC\RTX_CAN.h
